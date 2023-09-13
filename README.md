@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Jack Hagen, I'm currently a computer science student at University of Wisconsin-Eau Claire. I want to go into Cybersecurity when I graduate, and in the meantime, I build software!
+
+![IT Specialist - Device Configuration and Management Credly Badge](https://www.credly.com/badges/59c02fe6-be3f-4f64-b41d-89c6a0a988e2/public_url)
 <!--
 **ThisIsNotANamepng/ThisIsNotANamepng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
