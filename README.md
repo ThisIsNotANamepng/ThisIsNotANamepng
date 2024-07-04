@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-My name is Jack Hagen, I'm currently a computer science student at University of Wisconsin-Eau Claire. I want to go into Cybersecurity when I graduate, and in the meantime, I build software!
 
+My name is Jack Hagen, I'm currently a computer science and political science student at University of Wisconsin - Eau Claire, where I also do research in Cybersecurity and work as a student system administrator at UWEC's High Performance Computing Center. 
 
+I am specifically interested in the effect of cyber operations between nation states and the combination of cyber operations with traditional intelligence operations.My name is Jack Hagen, I'm currently a computer science and political science student at University of Wisconsin - Eau Claire, where I also do research in Cybersecurity and work as a student system administrator at UWEC's High Performance Computing Center. I am specifically interested in the effect of cyber operations between nation states and the combination of cyber operations with traditional intelligence operations.
+
+- 🔭 I’m currently working on summer research for UWEC's Artificial Intelligence and Machine Learning Security research group
+- 🌱 I’m currently learning cyber threat intelligence/analyses
+- 😄 Pronouns: He/Him
 
 <!--
 **ThisIsNotANamepng/ThisIsNotANamepng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
