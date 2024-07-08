@@ -3,7 +3,7 @@
 
 My name is Jack Hagen, I'm currently a computer science and political science student at University of Wisconsin - Eau Claire, where I also do research in Cybersecurity and work as a student system administrator at UWEC's High Performance Computing Center. 
 
-I am specifically interested in the effect of cyber operations between nation states and the combination of cyber operations with traditional intelligence operations.My name is Jack Hagen, I'm currently a computer science and political science student at University of Wisconsin - Eau Claire, where I also do research in Cybersecurity and work as a student system administrator at UWEC's High Performance Computing Center. I am specifically interested in the effect of cyber operations between nation states and the combination of cyber operations with traditional intelligence operations.
+I am specifically interested in the effect of cyber operations between nation states and the combination of cyber operations with traditional intelligence operations.
 
 - 🔭 I’m currently working on summer research for UWEC's Artificial Intelligence and Machine Learning Security research group
 - 🌱 I’m currently learning cyber threat intelligence/analyses
