@@ -9,7 +9,7 @@ I am
 - President/Founder | UWEC Model United Nations
 - President/Founder | UWEC Cybersecurity Club
 - President | UWEC Student Association for Computing Machinery (SACM)
-- Directory | UWEC Student Senate Information Technology Commission
+- Director | UWEC Student Senate Information Technology Commission
 
 <!--
 **ThisIsNotANamepng/ThisIsNotANamepng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
